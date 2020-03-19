@@ -1,1 +1,2 @@
 a3.txt file created on local
+Created and Added a new line from GIT GUI
